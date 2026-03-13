@@ -1,0 +1,24 @@
+GITHUB REPOSITORY DESCRIPTION - 350 CHARACTERS
+===============================================
+
+COPY THIS EXACTLY AND PASTE INTO GITHUB:
+
+Professional visa and immigration services platform for Rwanda. Features easy 
+3-step applications, secure document management, payment processing, admin 
+dashboard with RBAC, real-time tracking, and WhatsApp support. Built with PHP, 
+MySQL, and Apache. Production-ready with comprehensive security best practices.
+
+===============================================
+
+CHARACTER COUNT: 350/350 ✅
+
+STEPS:
+1. Go to https://github.com/new
+2. Repository name: atoz-global-link
+3. Paste the description above in the "Description" field
+4. Select: Public
+5. Select .gitignore: PHP
+6. Select License: MIT
+7. Click "Create repository"
+
+DONE! ✅
